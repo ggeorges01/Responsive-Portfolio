@@ -1,2 +1,3 @@
-# Responsive-Portfolio
-Responsive Portfolio Repository
+# Files modified using BootStrap.
+
+Bootstrap Porfolio Repository
